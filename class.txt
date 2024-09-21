@@ -13,3 +13,5 @@ Brown
 Red
 Glow
 Green
+Cat
+Dog
